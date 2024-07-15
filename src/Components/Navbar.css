@@ -1,0 +1,20 @@
+.doctor-icon {
+    display : flex
+}
+
+@media (min-width: 992px) {
+    .navbarForMobile {
+        display: none;
+    }
+}
+
+/* .header-one .navbar-header #mobile_btn {
+    display: none;
+    margin-right: 30px;
+} */
+
+@media (max-width: 991.98px) {
+    #doctorProfileLg {
+        display: none;
+    }
+}
